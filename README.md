@@ -1,2 +1,2 @@
 # Docker machines
-Various Docker containers I use in everyday life
+Various Docker images I use in everyday life for testing and troubleshooting.
