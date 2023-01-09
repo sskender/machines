@@ -9,9 +9,11 @@ RUN apt-get update -y
 RUN apt-get upgrade -y
 
 RUN apt-get install -y \
+    curl \
     htop \
     iputils-ping \
     nmap \
     telnet \
     tmux \
-    vim
+    vim \
+    wget
